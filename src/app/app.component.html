@@ -1,5 +1,15 @@
 
 <div class="container text-center">
-
+    <nav>
+        <a [routerLink]="['/component-one']">Component One</a>
+        <a [routerLink]="['/component-two', 123]">Component Two (id: 123)</a>
+      </nav>
 <event-list></event-list>
 </div>
+
+
+
+  <!-- <div style="color: green; margin-top: 1rem;">Outlet:</div>
+  <div style="border: 2px solid green; padding: 1rem;">
+    <router-outlet></router-outlet>
+  </div> -->

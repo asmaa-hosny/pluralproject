@@ -7,10 +7,8 @@ import {Component} from '@angular/core'
     <div>
         <h1>Upcoming Event List</h1>
         <hr>
-    </div>
-    
-    `
-        
+    </div>    
+    `   
     
 
 })
