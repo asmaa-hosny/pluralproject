@@ -1,0 +1,2 @@
+Error: Cannot find module '@angular /http'
+solve:npm install @angular/http@latest
